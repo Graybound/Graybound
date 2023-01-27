@@ -6,7 +6,7 @@
 - 📚 Most of my coding experience is in VBA, Python, Flutter/Dart. I used VBA mainly for college and learned python on my own. I used flutter to build a cross-platform application from scratch my senior year while working at an engineering compnay. 
 - 🤔 I’m looking for help with learning how to collaborate using GitHub. I programmed with others in school but we met in person and used onedrive on a good day (otherwise we had indavidual files and collaborated in person when merging 😬). I also learned SQL while working as a process engineer and I really enjoyed **[The SQL Murder Mystery](https://mystery.knightlab.com)** while learning (Super fun)!
 - 💬 Ask me about my interest in programming and development!
-- #📫 Reach out on [LinkedIn!](https://www.linkedin.com/in/noah-grayhek/) I would love to connect!
+- 📫 Reach out on [LinkedIn!](https://www.linkedin.com/in/noah-grayhek/) I would love to connect!
 
 <!--
 **Graybound/Graybound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
